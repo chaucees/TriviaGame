@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    font-family: 'Lato', sans-serif;   
+    size: 14pt;
+
+}
+
+.wrapper {
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 0;
+    border: 1px solid black;
+}
+    
+
+
+.header {
+    background-color: darkblue;
+    padding: 30px;
+
+}
+
+.main {
+    padding: 10px;
+    text-align: center;
+    height: 200px;
+
+}
+
+h1 {
+    font-weight: 700;
+    size: 36pt;
+    text-align:center;
+    color: white; 
+}
+
+h2 {
+    font-weight: 700;
+    size: 24pt;
+    text-align: center;
+}
