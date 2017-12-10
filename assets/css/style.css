@@ -23,7 +23,7 @@ body {
 .main {
     padding: 10px;
     text-align: center;
-    height: 200px;
+    height: auto;
 
 }
 
@@ -38,4 +38,40 @@ h2 {
     font-weight: 700;
     size: 24pt;
     text-align: center;
+}
+
+.question {
+    width: 90%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+.quizMessage {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+}
+.choiceList {
+    font-family: Lato;
+    color: black;
+}
+/* .result {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+} */
+
+.nextButton {
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color: lightgrey;
+    /*clear: both;*/
+    color: black;
+    position: relative;
+    margin: auto;
+    padding: 5px;
+    size: 14pt;
 }
