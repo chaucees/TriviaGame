@@ -63,7 +63,7 @@ h2 {
     padding: 2px;
 } */
 
-.nextButton {
+.startButton {
     width: 150px;
     height: 40px;
     text-align: center;
@@ -71,7 +71,20 @@ h2 {
     /*clear: both;*/
     color: black;
     position: relative;
-    margin: auto;
+    margin: 20px;
     padding: 5px;
     size: 14pt;
+}
+
+#timer {
+    width: auto;
+    height: auto;
+    size: 24pt;
+    font-weight: 700;
+    margin-bottom:20px;
+
+}
+
+#question-style {
+    font-weight: 700;
 }
